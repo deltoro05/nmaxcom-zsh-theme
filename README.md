@@ -14,7 +14,7 @@ When I work through SSH, I always use *tmux* on the other machine, so I don't ne
 On the right, we have the time, and just on its left, it'll be a small indicator I'll show in a moment.
 
 The triangle/delta is just a symbol that I think fits nicely. It serves as a visual beacon when there's a lot of text and gives some design balance. 
-You can swiftly change it for another one ([this is a good place to find others](https://unicode-table.com/en/)) or get rid of it altogether.
+You can swiftly change it for another one ([this is a good place to find others](https://symbl.cc/en/)) or get rid of it altogether.
 
 ## Did the last command end well?
 
